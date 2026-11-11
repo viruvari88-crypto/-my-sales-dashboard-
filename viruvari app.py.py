@@ -18,7 +18,7 @@ with tab1:
     # वीडियो वाला सैंपल डेटा
     sample_data = pd.DataFrame({
         "Region": ["North America", "EMEA", "Asia", "Latin America"],
-        "Revenue":,
+        "Revenue":[1450000,820000,610000,310000],
         "Growth_Percent": [12, 8, 15, 5]
     })
     
